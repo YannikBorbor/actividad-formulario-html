@@ -12,7 +12,7 @@ Yannik Borbor Orellana
 
 ## Materia
 
-Desarrollo Web
+Programación Y Plataformas Web
 
 ## Tecnologías Utilizadas
 
